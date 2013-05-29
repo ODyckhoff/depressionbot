@@ -57,7 +57,7 @@
     },
     "banned": {
         "en": "{user} banned from {command}",
-        "fr": "{user} banni de {command},
+        "fr": "{user} banni de {command}",
         "es": "{user} está prohibido de usar {command}",
         "na'vi": "{command}ìri {user} ke tung.",
         "cy": "{user} wedi ei gohurio o {command}",
