@@ -132,7 +132,7 @@
     },
     "status_unloaded": {
         "en": "Either that module wasn't on the roster or shit is totally fucked.",
-        "fr": "Soit que le module n'est pas sur la liste, ou merde est totalement foutu."
+        "fr": "Soit que le module n'est pas sur la liste, ou merde est totalement foutu.",
         "cy": "Naill ai heb fod modiwl oedd ar y rhestr, neu cachu yn gwbl torrodd"
     },
     "load_failed": {
@@ -142,7 +142,7 @@
     },
     "no_config_key": {
         "en": "Config key doesn't exist bro",
-        "fr": "Clé de configuration n'existe pas, frère"
+        "fr": "Clé de configuration n'existe pas, frère",
         "cy": "Nid yw allwedd cyfluniad yn bodoli, fy mrawd"
     },
     "config_array": {
@@ -157,7 +157,7 @@
     },
     "no_config_path": {
         "en": "Config path doesn't exist bro",
-        "fr": "Chemin de configuration n'existe pas, frère"
+        "fr": "Chemin de configuration n'existe pas, frère",
         "cy": "Nid yw llwybr cyfluniad yn bodoli, fy mrawd"
     },
     "config_keys_location": {
