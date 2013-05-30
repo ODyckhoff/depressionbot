@@ -1,6 +1,7 @@
 {
     "command_ban": {
         "en": "{user} is banned from using this command. Commence incineration.",
+        "fr": "{user} est interdit d'utiliser cette commande. Commencer incinération.",
         "es": "{user} está prohibido de usar esta instrucción. Comenzar incineración.",
         "na'vi": "Tsu'ori {user} ke tung. Nga skxawng lu.",
         "cy": "Mae {user} wedi ei gohurio gan ddefnyddio'r gorchymun yma. Cychwyn orfflosgiad",
@@ -8,6 +9,7 @@
     },
     "syntax_error": { 
         "en": "Invalid syntax. Initiate incineration.",
+        "fr": "Syntaxe n'est pas valide. Initier incinération.
         "es": "Sintaxis no válida. Iniciar incineración.",
         "na'vi": "Ngeyä pamrel keyawr lu. Nga skxawng lu.",
         "cy": "Cystrawen annilys. Cychwyn orfflosgiad",
@@ -15,30 +17,35 @@
     },
     "usage": {
         "en": "Usage for {command}: {usage}.",
+        "fr": "Utilisation de la {command}: {usage}.",
         "na'vi": "Nga tsun sivar ìlä {command}: {usage}.",
         "cy": "Defnydd o {command}: {usage}.",
         "nl": "{command} wordt op de volgende manier gebruikt: {usage}."
     },
     "no_usage_info": {
         "en": "No usage information found for {command}.",
+        "fr": "Aucune information sur l'utilisation trouvée pour {command}.",
         "na'vi": "Oel ke tsun sivar {comamnd}it",
         "cy": "Ni chanfuwyd gwybodaeth am ddefnydd o {command}",
         "nl": "Geen gebruiksinformatie gevonden voor {command}."
     },
     "help_link": {
         "en": "Help for {module}: {link}",
+        "fr": "Aide pour {module}: {link}",
         "na'vi": "{module}ä srungìl {link} it tok",
         "cy": "Cymorth am {module}: {link}",
         "nl": "Hulp voor {module}: {link}"
     },
     "no_help": {
         "en": "No help found for {module}.",
+        "fr": "Aide pas trouvé pour {module}.",
         "na'vi": "Fì{module}ìri oel ke tsun run srungit",
         "cy": "Ni chanfuwyd cymorth am {module}",
         "nl": "Geen hulp gevonden voor {module}."
     },
     "loaded_modules": {
         "en": "Loaded modules: {modules}.",
+        "fr": "Modules chargés: {modules}.",
         "cy": "Modiwlau sy'n lwythodd: {modules}.",
         "nl": "Geladen modules: {modules}."
     }
