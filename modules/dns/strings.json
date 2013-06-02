@@ -1,11 +1,13 @@
 {
     "lookup-error": {
         "en": "{domain} is \u000303AVAILABLE! \u000314({code})",
+        "fr": "{domain} est \u000303DISPONIBLE! \u000314({code})",
         "cy": "{domain} \u000303AR GAEL! \u000314({code})",
         "nl": "{domain} is \u000303BESCHIKBAAR! \u000314({code})"
     },
     "lookup": {
         "en": "{domain} is \u000305TAKEN! \u000314({address})",
+        "fr": "{domain} est \u000305REPRIS! \u000314({address})",
         "cy": "Dydy {domain} \u000305DDIM AR GAEL! \u000314({address})",
         "nl": "{domain} is \u000305BEZET! \u000314({address})"
     },
@@ -14,6 +16,7 @@
     },
     "rdns-error": {
         "en": "Unable to lookup {ip}. \u000314({error})",
+        "fr": "Incapable de rechercher {ip}. \u000314({error})",
         "cy": "Methu am-edrych {ip}. \u000314({error})",
         "nl": "{ip} kan niet worden opgezocht. \u000314({error})"
     }
